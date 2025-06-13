@@ -1,10 +1,3 @@
-# Bank-Loan-Portfolio-Risk-Performance-Analysis-
-
-Here’s a well-structured **README.md** you can use for your GitHub post for this project.
-It is based on your PBIX file, screenshots, `Terminologies` doc, `Domain Knowledge` doc, and the CSV file you uploaded.
-
----
-
 # 📊 Bank Loan Analysis Dashboard
 
 This project is an **interactive Power BI dashboard** designed to analyze and visualize bank loan data. It helps banks, financial analysts, and decision-makers monitor loan performance, assess risk, and gain actionable insights from large volumes of loan data.
